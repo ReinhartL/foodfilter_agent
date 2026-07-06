@@ -1,6 +1,6 @@
 # Non-Commercial Source-Available License
 
-Copyright (c) 2026 上海锐科智核人工智能科技有限公司
+Copyright (c) 2026 Shanghai Raykit IntelliCore Artificial Intelligence Technology Co., Ltd.
 
 This repository is made available for personal, educational, research, and other non-commercial use.
 
