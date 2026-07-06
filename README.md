@@ -1,6 +1,6 @@
-# FoodFilter Agent Skill
+# FoodFilter Skill
 
-FoodFilter Agent Skill is a lightweight skill file for AI agents such as Codex or Claude.
+FoodFilter Skill is a lightweight skill file for AI agents such as Codex or Claude.
 
 It helps an agent read restaurant-related content from links, screenshots, OCR text, social posts, videos, or manual lists, then convert the result into FoodFilter-compatible import JSON.
 
@@ -67,6 +67,5 @@ Expected output shape:
 
 This project is source-available for personal, research, and non-commercial use.
 
-Commercial use is not permitted without written permission from 上海锐科智核人工智能科技有限公司.
-
+Commercial use is not permitted without written permission from Shanghai Raykit IntelliCore Artificial Intelligence Technology Co., Ltd..
 See `LICENSE.md` for details.
