@@ -263,4 +263,4 @@ This repository uses a non-commercial source-available licensing direction.
 
 Personal research, learning, and non-commercial experiments are allowed.
 
-Without written permission from Shanghai Ruike Zhihe Artificial Intelligence Technology Co., Ltd., this project may not be used in commercial products, commercial services, or commercial deployments.
+Without written permission from Shanghai Raykit IntelliCore Artificial Intelligence Technology Co., Ltd., this project may not be used in commercial products, commercial services, or commercial deployments.
