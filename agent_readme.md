@@ -4,11 +4,11 @@ FoodFilter Agent 是一个围绕真实个人饮食数据库运行的本地点餐
 
 它的目标不是回答“今天吃什么”，而是直接完成从偏好理解、店铺筛选、优惠领取、凑单比价到支付前确认的完整外卖决策链路。
 
-`README.md` 用于说明 `foodfilter_skill` 的安装和使用；本文档记录 `foodfilter_agent` 的终局形态。
+`README.md` 用于说明 `foodfilter_skill` 的安装和使用；本文档记录 `foodfilter_agent` 的使用形态。
 
 ## Product Vision
 
-FoodFilter Agent 的终局体验是：
+FoodFilter Agent 的体验是：
 
 ```text
 到饭点
@@ -257,22 +257,6 @@ FoodFilter Agent 可以运行在两种形态上。
   -> 支付前确认
 ```
 
-## Commercial Direction
-
-FoodFilter Agent 的长期商业价值来自三层：
-
-- 食鉴 App：用户维护自己的饮食数据库
-- Agent：把数据库变成自动点餐能力
-- 硬件：把主动提醒、语音确认和本地执行封装成专用设备
-
-软件层可以开放给开发者研究和个人使用。
-
-商业化重点可以落在：
-
-- 专用硬件
-- 平台 skill 授权
-- 高级模型能力
-- 私有化本地 Agent 套件
 
 ## License Direction
 
