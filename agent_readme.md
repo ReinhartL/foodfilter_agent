@@ -259,8 +259,4 @@ External content
 
 ## License Direction
 
-This repository uses a non-commercial source-available licensing direction.
-
-Personal research, learning, and non-commercial experiments are allowed.
-
-Without written permission from Shanghai Raykit IntelliCore Artificial Intelligence Technology Co., Ltd., this project may not be used in commercial products, commercial services, or commercial deployments.
+This repository is licensed under the MIT License.

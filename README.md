@@ -61,11 +61,9 @@ Expected output shape:
 ## Repository Contents
 
 - `foodfilter_skill.md`: the skill source file
-- `LICENSE.md`: non-commercial license notice
+- `LICENSE.md`: MIT license text
 
 ## License
 
-This project is source-available for personal, research, and non-commercial use.
-
-Commercial use is not permitted without written permission from Shanghai Raykit IntelliCore Artificial Intelligence Technology Co., Ltd..
+This project is licensed under the MIT License.
 See `LICENSE.md` for details.

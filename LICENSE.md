@@ -1,23 +1,21 @@
-# Non-Commercial Source-Available License
+MIT License
 
 Copyright (c) 2026 Shanghai Raykit IntelliCore Artificial Intelligence Technology Co., Ltd.
 
-This repository is made available for personal, educational, research, and other non-commercial use.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You may:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-- read, copy, and modify the files for non-commercial purposes;
-- use the skill in personal AI-agent workflows;
-- share non-commercial modifications with attribution.
-
-You may not:
-
-- use this project or derived work for commercial products, paid services, enterprise deployments, consulting delivery, or monetized workflows without written permission;
-- sublicense, sell, rent, or package this project as part of a commercial offering;
-- remove copyright, attribution, or license notices.
-
-No warranty is provided. The project is provided "as is", without any express or implied warranty.
-
-For commercial licensing, contact: support@raykit.cn
-
-Reference license intent: PolyForm Noncommercial License 1.0.0.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
